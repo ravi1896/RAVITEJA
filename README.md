@@ -6,4 +6,5 @@ raviteja199876@gmail.com
 * The company can see my resume with a single link which makes my resume different from others and also make a good impression with the HR.
 ## EDUCATION DETAILS:
 BTECH|INTERMEDIATE|10TH CLASS
----|---|---|
+---|---|---
+76|96|98
